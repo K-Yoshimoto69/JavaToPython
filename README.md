@@ -120,7 +120,7 @@ MIT License
 
 ## 👤 Author
 
-* Your Name
+* Koki Yoshimoto
 
 ---
 
